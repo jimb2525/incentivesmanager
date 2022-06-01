@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="purchase_requirement_description" label="Purchase Requirement Description" language="en" table="x_snc_jab_incent_0_offer">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>purchase_requirement_description</element>
+            <help/>
+            <hint/>
+            <label>Purchase Requirement Description</label>
+            <language>en</language>
+            <name>x_snc_jab_incent_0_offer</name>
+            <plural>Purchase Requirement Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 22:04:41</sys_created_on>
+            <sys_id>57624769875a4510f34f8516dabb353e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Purchase Requirement Description</sys_name>
+            <sys_package display_value="Incentives Manager" source="x_snc_jab_incent_0">1934ea6987964510f34f8516dabb3530</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incentives Manager">1934ea6987964510f34f8516dabb3530</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_jab_incent_0_offer_purchase_requirement_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 22:04:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

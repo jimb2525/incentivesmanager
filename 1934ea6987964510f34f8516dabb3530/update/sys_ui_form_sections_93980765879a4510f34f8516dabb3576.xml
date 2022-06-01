@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="93980765879a4510f34f8516dabb3576" sys_domain="global" table="x_snc_jab_incent_0_offer" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 22:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b984765879a4510f34f8516dabb3502</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jab_incent_0_offer" name="x_snc_jab_incent_0_offer" sys_domain="global" view="Default view">93980765879a4510f34f8516dabb3576</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_jab_incent_0_offer" sys_domain="global" view="Default view">f5e60ba1879a4510f34f8516dabb352b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 22:31:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 22:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17984765879a4510f34f8516dabb3503</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_jab_incent_0_offer" name="x_snc_jab_incent_0_offer" sys_domain="global" view="Default view">93980765879a4510f34f8516dabb3576</sys_ui_form>
+            <sys_ui_section caption="Offer Details" display_value="Offer Details" name="x_snc_jab_incent_0_offer" sys_domain="global" view="Default view">9f980765879a4510f34f8516dabb3574</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 22:31:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_jab_incent_0_offer</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-03-17 22:31:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93980765879a4510f34f8516dabb3576</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_jab_incent_0_offer</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Incentives Manager" source="x_snc_jab_incent_0">1934ea6987964510f34f8516dabb3530</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Incentives Manager">1934ea6987964510f34f8516dabb3530</sys_scope>
+            <sys_update_name>sys_ui_form_sections_93980765879a4510f34f8516dabb3576</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-03-17 22:31:43</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

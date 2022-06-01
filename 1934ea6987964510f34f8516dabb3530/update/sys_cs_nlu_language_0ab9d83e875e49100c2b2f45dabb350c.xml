@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_nlu_language">
+    <sys_cs_nlu_language action="INSERT_OR_UPDATE">
+        <enabled>false</enabled>
+        <language display_value="Portuguese">02b9d83e875e49100c2b2f45dabb350b</language>
+        <sys_class_name>sys_cs_nlu_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-21 07:00:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0ab9d83e875e49100c2b2f45dabb350c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Incentives Manager" source="x_snc_jab_incent_0">1934ea6987964510f34f8516dabb3530</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incentives Manager">1934ea6987964510f34f8516dabb3530</sys_scope>
+        <sys_update_name>sys_cs_nlu_language_0ab9d83e875e49100c2b2f45dabb350c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-21 07:00:00</sys_updated_on>
+    </sys_cs_nlu_language>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Offer</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Offer</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">e23e7e9587120110f34f8516dabb3552</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 20:16:42</sys_created_on>
+        <sys_id>29b9a6a187d64510f34f8516dabb353c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Offer</sys_name>
+        <sys_package display_value="Incentives Manager" source="x_snc_jab_incent_0">1934ea6987964510f34f8516dabb3530</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incentives Manager">1934ea6987964510f34f8516dabb3530</sys_scope>
+        <sys_update_name>sys_wizard_answer_29b9a6a187d64510f34f8516dabb353c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 20:16:42</sys_updated_on>
+        <table/>
+        <target_url>x_snc_jab_incent_0_offer.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

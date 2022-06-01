@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Offer" max_length="40" name="x_snc_jab_incent_0_offer" sizeclass="12" type="collection">
+        <element label="Billing ID" max_length="40" name="billing_id" type="string"/>
+        <element choice="1" label="Billing Type" max_length="40" name="billing_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Vendor" sequence="10" value="vendor"/>
+            </choice>
+        </element>
+        <element label="Brand" max_length="32" name="brand" reference="x_snc_jab_incent_0_brand" type="reference"/>
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element choice="1" label="Clearing Type" max_length="40" name="clearing_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Clearinghouse" sequence="10" value="clearinghouse"/>
+            </choice>
+        </element>
+        <element label="Effective Date" max_length="40" name="effective_date" type="glide_date"/>
+        <element label="Expiration Date" max_length="40" name="expiration_date" type="glide_date"/>
+        <element label="K Number" max_length="40" name="k_number" type="string"/>
+        <element choice="1" label="Legal Entity" max_length="40" name="legal_entity" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Inmar Brand Solutions" sequence="10" value="inmar_brand_solutions"/>
+            </choice>
+        </element>
+        <element label="Manufacturer ID" max_length="40" name="manufacturer_id" type="string"/>
+        <element label="Manufacturer Offer ID" max_length="40" name="manufacturer_offer_id" type="string"/>
+        <element choice="1" label="Offer Footprint" max_length="40" name="offer_footprint" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Footprint" sequence="10" value="footprint"/>
+            </choice>
+        </element>
+        <element choice="1" label="Offer Type" max_length="40" name="offer_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Dollars Off Item" sequence="10" value="dollars_off_item"/>
+            </choice>
+        </element>
+        <element label="Purchase Requirement Description" max_length="2000" name="purchase_requirement_description" type="string"/>
+        <element label="Redemptions Per Transaction" max_length="40" name="redemptions_per_transaction" type="string"/>
+        <element label="Requirement UPC" max_length="200" name="requirement_upc" type="string"/>
+        <element label="Retailer" max_length="32" name="retailer" reference="customer_account" type="reference"/>
+        <element label="Retailer Family ID" max_length="40" name="retailer_family_id" type="integer"/>
+        <element label="Retail Requirement UPC" max_length="200" name="retail_requirement_upc" type="string"/>
+        <element label="Source ID" max_length="40" name="source_id" type="string"/>
+        <element label="Stackable" max_length="40" name="stackable" type="string"/>
+        <element label="Total Redemptions Allowed" max_length="40" name="total_redemptions_allowed" type="string"/>
+    </element>
+</database>

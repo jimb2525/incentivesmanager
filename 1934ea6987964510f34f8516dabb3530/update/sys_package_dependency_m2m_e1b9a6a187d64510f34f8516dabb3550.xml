@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">2a3e7e9587120110f34f8516dabb354f</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-17 20:16:42</sys_created_on>
+        <sys_id>e1b9a6a187d64510f34f8516dabb3550</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Incentives Manager" source="x_snc_jab_incent_0">1934ea6987964510f34f8516dabb3530</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-17 20:16:42</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
